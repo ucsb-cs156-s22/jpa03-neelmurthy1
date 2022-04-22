@@ -3,8 +3,8 @@
 # demo-spring-react-example-v2: dsre-v2
 
 Storybook is here:
-* Production: <https://ucsb-cs156-s22.github.io/jpa03-neelmurthy1-docs/>
-* QA:  <https://ucsb-cs156-s22.github.io/jpa03-neelmurthy1-docs-qa/>
+* Production: <https://ucsb-cs156-s22.github.io/jpa03-neelmurthy1-docs/storybook>
+* QA:  <https://ucsb-cs156-s22.github.io/jpa03-neelmurthy1-docs-qa/storybook>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
